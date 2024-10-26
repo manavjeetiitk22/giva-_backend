@@ -1,5 +1,5 @@
 # Forntend repo
-https://github.com/manavjeetiitk22/Giva-frontend
+[https://github.com/manavjeetiitk22/Giva-frontend](https://github.com/manavjeetiitk22/Giva-Frontend)
 
 # Live URL 
 giva-beta.vercel.app/
